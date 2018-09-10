@@ -1,0 +1,23 @@
+{
+  "name": "mongohx",
+  "version": "1.0.0",
+  "description": "haxe extern for mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damoebius/mongohx.git"
+  },
+  "keywords": [
+    "haxe",
+    "mongodb"
+  ],
+  "author": "damoebius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damoebius/mongohx/issues"
+  },
+  "homepage": "https://github.com/damoebius/mongohx#readme"
+}
